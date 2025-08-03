@@ -4,7 +4,7 @@ A clean and responsive calculator web application built with HTML, CSS, and Java
 
 ## Live Demo
 
-[Try the calculator here](https://toufikforyou.github.io/SimpleCalculator/)
+[Try the calculator here](https://toufikforyou.github.io/simple-calculator/)
 
 ## Features
 
